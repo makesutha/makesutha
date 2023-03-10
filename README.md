@@ -1,9 +1,5 @@
 # Hi there 👋, I am Suraj Thapa, a young coder and tech geek guy.
-I am just a high schooler so please don't expect awesome projects in my profile. 😂 😂
 <br>
-<br>📫 How to reach me:
-<br>&emsp;&emsp;&emsp;via email: sthapa06407@gmail.com
-<br>&emsp;&emsp;&emsp;via social media(FB, Twitter): @sutha064   
 
 <!--
 **sutha064/sutha064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
